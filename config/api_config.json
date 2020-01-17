@@ -1,0 +1,9 @@
+{
+    "api": {
+        "url": "http://rlv3wb74:82/",
+        "api_user": "Integration_User",
+        "api_password": "Welcome1",
+        "token": "token",
+        "asset": "api/AssetMaintenance/Asset/"        
+    }
+}
